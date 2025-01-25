@@ -67,9 +67,6 @@ Fixicon is a revolutionary app combining the best of social media engagement wit
 ## **Technologies Used**
 
 - **Frontend:** Flutter
-- **Backend:** Firebase, Node.js
-- **Database:** Firestore
-- **Authentication:** Firebase Auth
 - **State Management:** Riverpod
 
 ---
